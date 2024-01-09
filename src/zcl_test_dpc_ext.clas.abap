@@ -1,0 +1,7 @@
+CLASS zcl_test_dpc_ext DEFINITION PUBLIC.
+  PUBLIC SECTION.
+ENDCLASS.
+
+CLASS zcl_test_dpc_ext IMPLEMENTATION.
+  Foo.
+ENDCLASS.
